@@ -1,0 +1,131 @@
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150713_Quotation_Import 1.0.13\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150713_Quotation_Import 1.0.13\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150713_Quotation_Import 1.0.13\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150713_Quotation_Import 1.0.13\obj\Debug\Sales Quotation Import.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\obj\Debug\Sales Quotation Import.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\obj\Debug\Sales_Quotation_Import.Resources.resources
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\obj\Debug\Sales Quotation Import.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\office.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\office.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\obj\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\obj\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150727_Quotation_Import 1.0.14\obj\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\obj\Debug\Sales Quotation Import.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\obj\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\obj\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\obj\Debug\Sales_Quotation_Import.Resources.resources
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\obj\Debug\Sales Quotation Import.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\office.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\office.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\20150728_Quotation_Import 1.0.14\obj\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\obj\Debug\Sales Quotation Import.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\obj\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\obj\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\obj\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\office.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\office.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\obj\Debug\Sales_Quotation_Import.Resources.resources
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150729_Quotation_Import 1.0.15\obj\Debug\Sales Quotation Import.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\obj\Debug\Sales Quotation Import.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\obj\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\obj\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\obj\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\office.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\office.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\obj\Debug\Sales_Quotation_Import.Resources.resources
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150803_Quotation_Import 1.0.16\obj\Debug\Sales Quotation Import.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\obj\Debug\Sales Quotation Import.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\obj\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\obj\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\obj\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\obj\Debug\Sales_Quotation_Import.Resources.resources
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\obj\Debug\Sales Quotation Import.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\office.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\office.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150811_Quotation_Import 1.0.17\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\obj\Debug\Sales Quotation Import.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\obj\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\obj\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\obj\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\Sales Quotation Import.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\office.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\office.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\obj\Debug\Sales_Quotation_Import.Resources.resources
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Quotation\Source Code\20150821_Quotation_Import 1.0.18\obj\Debug\Sales Quotation Import.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Import Budget\Import Budget\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Import Budget\Import Budget\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Import Budget\Import Budget\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Import Budget\Import Budget\obj\Debug\Sales Quotation Import.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Import Budget\Import Budget\obj\Debug\Sales Quotation Import.exe
+G:\International Projects_SAP9.0\Procons-4IT\Import Budget\Import Budget\obj\Debug\Sales Quotation Import.xml
+G:\International Projects_SAP9.0\Procons-4IT\Import Budget\Import Budget\obj\Debug\Sales Quotation Import.pdb

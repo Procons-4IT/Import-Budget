@@ -1,0 +1,10 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="10496" Image="" Position="3" String="Import Budget Details"
+       Type="1" UniqueID="mnu_Budget">
+      </Menu>
+   
+    </action>
+  </Menus>
+</Application>
